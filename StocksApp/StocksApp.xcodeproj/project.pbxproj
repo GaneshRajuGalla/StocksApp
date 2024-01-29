@@ -92,7 +92,6 @@
 			isa = PBXGroup;
 			children = (
 				6EDC45C42B66B7D2009793F6 /* Model */,
-				6EDC45C52B66B7D6009793F6 /* ViewModel */,
 				6EDC45C62B66B7DB009793F6 /* View */,
 			);
 			path = StocksView;
@@ -104,13 +103,6 @@
 				6EDC45CC2B66B8F7009793F6 /* Stock.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		6EDC45C52B66B7D6009793F6 /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		6EDC45C62B66B7DB009793F6 /* View */ = {

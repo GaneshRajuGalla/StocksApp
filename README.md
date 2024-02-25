@@ -1,5 +1,6 @@
 # StocksApp
 
-[![Video](StocksApp/stocks.mov)
+[![Video](Media/Launch.png)](StocksApp/stocks.mov)
+
 
 

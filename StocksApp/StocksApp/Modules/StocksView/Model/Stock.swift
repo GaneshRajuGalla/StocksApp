@@ -15,7 +15,7 @@ struct Stock:Identifiable{
     static func getData() -> [Stock] {
         var stocks = [Stock]()
         let startDate = Calendar.current.date(from: DateComponents(year: 2024, month: 1, day: 1))!
-        let endDate = Calendar.current.date(from: DateComponents(year: 2024, month: 2, day: 31))!
+        let endDate = Calendar.current.date(from: DateComponents(year: 2024, month: 1, day: 31))!
         
         var currentDate = startDate
         while currentDate <= endDate {
